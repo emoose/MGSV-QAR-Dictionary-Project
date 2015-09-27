@@ -61,7 +61,7 @@ If you're unable to make a pull request you could also make an issue in the issu
 A few things I've noticed while making this dictionary:
 
 - Some fpk/fpkd files have the same filenames as .fox2 files mentioned inside .fpkd archives, or filenames that are very close to the .fox2 filename.
-- File extensions aren't used for any hashes - unsure why other dictionaries have entries that have file extensions.
+- File extensions aren't used for any hashes - ~~unsure why other dictionaries have entries that have file extensions~~ Ground Zeroes has some hashes which contain the extension of the file.
 - Some files don't seem to have any references to them, maybe they're referenced by their actual filename hash?
 - Files are stored alphabetically inside QAR files, so eg. if you have the following in the QAR entry list:  
 2a6874cbc1dde.fpk (/Assets/eg/test1)  
