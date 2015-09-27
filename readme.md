@@ -24,31 +24,32 @@ Filenames have been sourced from a few different places:
 - bruteforcing (trying out different combinations of known paths combined with filenames inside fpk archives)
 
 ## Stats
-These stats are based on TPP PC v1.006 and the initial commit to this repo:
+These stats are based on TPP PC v1.006 and the latest commit to this repo:
 
 |QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
 |data1.dat|735|623|112|84.76%|Every file named except .subp files|
-|chunk0.dat|2885|2286|599|79.23%||
-|chunk1.dat|4375|4210|165|96.22%||
-|chunk2.dat|14115|5262|8853|37.27%||
-|chunk3.dat|1948|907|1041|46.56%||
-|chunk4.dat|13722|3756|9966|27.37%||
-|texture0.dat|33363|8478|24885|25.41%||
+|chunk0.dat|2885|2286|599|79.24%||
+|chunk1.dat|4375|4210|165|96.23%||
+|chunk2.dat|14115|7333|6782|51.95%||
+|chunk3.dat|1948|966|982|49.59%||
+|chunk4.dat|13722|4056|9666|29.56%||
+|texture0.dat|33359|8478|24881|25.41%||
 |texture1.dat|8804|0|8804|0.00%||
-|texture2.dat|21059|1931|19128|9.16%||
+|texture2.dat|21059|1931|19128|9.17%||
 |texture3.dat|14796|946|13850|6.39%||
 |texture4.dat|16557|1502|15055|9.07%||
-|Total:|132359|29901|102458|22.59%|45.11% completion w/o textures|
+|Total:|132355|32331|100024|24.42%|51.54% completion w/o textures|
 
 |File type|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
-|.lua files|120|120|0|100%||
-|.wem files|255|255|0|100%|tp_m_10160_03 (Ep. 51 convo) and tp_m_10260_02 (convo about quiet) are unused ingame|
-|.sbp files|212|201|11|94.81%||
-|.fsm files|235|225|10|95.74%||
-|.fpk/fpkd files|16637|6655|9982|40.00%||
-|.pftxs files|3068|2429|639|79.19%||
+|.lua|120|120|0|100.00%||
+|.wem|255|255|0|100.00%|tp_m_10160_03 (Ep. 51 convo) and tp_m_10260_02 (convo about quiet) are unused ingame|
+|.sbp|212|203|9|95.75%||
+|.fsm|235|225|10|95.74%||
+|.fpk|16637|7824|8813|47.03%||
+|.pftxs|3068|2519|549|82.11%||
+|.ftex|23937|3612|20325|15.09%||
 
 Some console-only files have also been named (along with MGO-related files included in console data), but console-only files aren't included in the stats above.
 
@@ -61,7 +62,7 @@ If you're unable to make a pull request you could also make an issue in the issu
 A few things I've noticed while making this dictionary:
 
 - Some fpk/fpkd files have the same filenames as .fox2 files mentioned inside .fpkd archives, or filenames that are very close to the .fox2 filename.
-- File extensions aren't used for any hashes - ~~unsure why other dictionaries have entries that have file extensions~~ Ground Zeroes has some hashes which contain the extension of the file.
+- Only certain filenames used by Ground Zeroes include the extension of the file, in TPP all filename extensions are hashed seperately, so we don't need to include them.
 - Some files don't seem to have any references to them, maybe they're referenced by their actual filename hash?
 - Files are stored alphabetically inside QAR files, so eg. if you have the following in the QAR entry list:  
 2a6874cbc1dde.fpk (/Assets/eg/test1)  
