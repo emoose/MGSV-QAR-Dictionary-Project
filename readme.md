@@ -24,32 +24,43 @@ Filenames have been sourced from a few different places:
 - bruteforcing (trying out different combinations of known paths combined with filenames inside fpk archives)
 
 ## Stats
-These stats are based on TPP PC v1.006 and the latest commit to this repo:
+These stats are based on TPP PC v1.007 and the latest commit to this repo:
 
 |QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
 |data1.dat|735|623|112|84.76%|Every file named except .subp files|
-|chunk0.dat|2885|2286|599|79.24%||
-|chunk1.dat|4375|4210|165|96.23%||
-|chunk2.dat|14115|7333|6782|51.95%||
-|chunk3.dat|1948|966|982|49.59%||
-|chunk4.dat|13722|4056|9666|29.56%||
-|texture0.dat|33359|8478|24881|25.41%||
-|texture1.dat|8804|0|8804|0.00%||
-|texture2.dat|21059|1931|19128|9.17%||
-|texture3.dat|14796|946|13850|6.39%||
-|texture4.dat|16557|1502|15055|9.07%||
-|Total:|132355|32331|100024|24.42%|51.54% completion w/o textures|
+|chunk0.dat|2885|2441|444|84.61%||
+|chunk1.dat|4375|4216|159|96.37%||
+|chunk2.dat|14115|9381|4734|66.46%||
+|chunk3.dat|1948|1320|628|67.76%||
+|chunk4.dat|13722|9379|4343|68.35%||
+|0\00.dat|271|148|123|54.61%|chunk patches|
+|texture0.dat|33359|8818|24541|26.43%||
+|texture1.dat|8804|52|8752|0.59%||
+|texture2.dat|21059|1941|19118|9.22%||
+|texture3.dat|14796|952|13844|6.43%||
+|texture4.dat|16557|1512|15045|9.13%||
+|0\01.dat|168|20|148|11.90%|texture patches|
+|Total:|132794|40803|91991|30.73%|72.29% completion w/o textures|
 
 |File type|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
-|.lua|120|120|0|100.00%||
 |.wem|255|255|0|100.00%|tp_m_10160_03 (Ep. 51 convo) and tp_m_10260_02 (convo about quiet) are unused ingame|
+|.lua|163|163|0|100.00%||
+|.bnk|1|1|0|100.00%||
+|.dat|2|2|0|100.00%||
+|.ffnt|6|6|0|100.00%||
+|.fmtt|2|2|0|100.00%||
+|.json|1|1|0|100.00%||
+|.fsop|4|4|0|100.00%||
 |.sbp|212|203|9|95.75%||
 |.fsm|235|225|10|95.74%||
-|.fpk|16637|7824|8813|47.03%||
-|.pftxs|3068|2519|549|82.11%||
-|.ftex|23937|3612|20325|15.09%||
+|.pftxs|3115|2714|401|87.13%||
+|.subp|601|489|112|81.36%||
+|.fpkd|16700|11727|4973|70.22%||
+|.fpk|16754|11716|5038|69.93%||
+|.ftex|23947|3726|20221|15.56%||
+|.ftexs|70796|9569|61227|13.52%||
 
 Some console-only files have also been named (along with MGO-related files included in console data), but console-only files aren't included in the stats above.
 
