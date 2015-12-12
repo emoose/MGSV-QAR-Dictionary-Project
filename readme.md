@@ -29,19 +29,19 @@ These stats are based on TPP PC v1.007 and the latest commit to this repo:
 |QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
 |data1.dat|735|733|2|99.73%|Every file named except fb73c9483333.subp and 3989933189c50.subp|
-|chunk0.dat|2885|2670|215|92.55%||
+|chunk0.dat|2885|2672|213|92.62%||
 |chunk1.dat|4375|4246|129|97.05%||
 |chunk2.dat|14115|14112|3|99.98%|Every file named except 3 .fsm files|
-|chunk3.dat|1948|1935|13|99.33%||
+|chunk3.dat|1948|1941|7|99.64%||
 |chunk4.dat|13722|13716|6|99.96%|Every file named except 2 .fsm and 4 .sbp files|
 |0\00.dat|271|193|78|71.22%|chunk patches|
-|texture0.dat|33359|8948|24411|26.82%||
-|texture1.dat|8804|2140|6664|24.31%||
-|texture2.dat|21059|2678|18381|12.72%||
-|texture3.dat|14796|1012|13784|6.84%||
-|texture4.dat|16557|2140|14417|12.93%||
+|texture0.dat|33359|9662|23697|28.96%||
+|texture1.dat|8804|7572|1232|86.01%||
+|texture2.dat|21059|2784|18275|13.22%||
+|texture3.dat|14796|1026|13770|6.93%||
+|texture4.dat|16557|2150|14407|12.99%||
 |0\01.dat|168|23|145|13.69%|texture patches|
-Total:|132794|54546|78248|41.08%|98.83% completion w/o textures|
+|Total:|132794|60830|71964|45.81%|98.85% completion w/o textures|
 
 |File type|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
@@ -54,13 +54,13 @@ Total:|132794|54546|78248|41.08%|98.83% completion w/o textures|
 |.json|1|1|0|100.00%||
 |.fsop|4|4|0|100.00%||
 |.subp|601|599|2|99.67%||
-|.fpkd|16700|16539|161|99.04%||
-|.fpk|16754|16536|218|98.70%||
+|.fpkd|16700|16543|157|99.06%||
+|.fpk|16754|16540|214|98.72%||
 |.pftxs|3115|3068|47|98.49%||
 |.fsm|235|226|9|96.17%||
 |.sbp|212|203|9|95.75%||
-|.ftex|23947|4656|19291|19.44%||
-|.ftexs|70796|12285|58511|17.35%||
+|.ftex|23947|6266|17681|26.17%||
+|.ftexs|70796|16951|53845|23.94%||
 
 Some console-only files have also been named (along with MGO-related files included in console data), but console-only files aren't included in the stats above.
 
