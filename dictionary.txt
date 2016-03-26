@@ -1,4 +1,4 @@
-la/Assets/fox/effect/gr_pic/base_FILTERLUT
+/Assets/fox/effect/gr_pic/base_FILTERLUT
 /Assets/fox/effect/gr_pic/default_reflection
 /Assets/fox/effect/gr_pic/material_params
 /Assets/fox/effect/gr_pic/material_params.fmtt
