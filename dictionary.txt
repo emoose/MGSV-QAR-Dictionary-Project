@@ -21660,6 +21660,14 @@
 /Assets/tpp/pack/ui/lang/lang_default_data_por
 /Assets/tpp/pack/ui/lang/lang_default_data_rus
 /Assets/tpp/pack/ui/lang/lang_default_data_spa
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_eng
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_fre
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_ger
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_ita
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_jpn
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_por
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_rus
+/Assets/tpp/pack/ui/lang/lang_tpp_challenge_task_spa
 /Assets/tpp/pack/ui/lang/lang_tpp_database_eng
 /Assets/tpp/pack/ui/lang/lang_tpp_database_fre
 /Assets/tpp/pack/ui/lang/lang_tpp_database_ger
@@ -21676,6 +21684,14 @@
 /Assets/tpp/pack/ui/lang/lang_tpp_emblem_por
 /Assets/tpp/pack/ui/lang/lang_tpp_emblem_rus
 /Assets/tpp/pack/ui/lang/lang_tpp_emblem_spa
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_eng
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_fre
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_ger
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_ita
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_jpn
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_por
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_rus
+/Assets/tpp/pack/ui/lang/lang_tpp_event_item_spa
 /Assets/tpp/pack/ui/lang/lang_tpp_fob_eng
 /Assets/tpp/pack/ui/lang/lang_tpp_fob_fre
 /Assets/tpp/pack/ui/lang/lang_tpp_fob_ger
@@ -27588,3 +27604,72 @@
 /tpptest/pack/location/empty/empty
 foxfs
 foxpatch
+
+
+
+/Fox/Scripts/Geo/geo_init
+/Fox/Scripts/Geo/geo_default
+/Fox/Scripts/Geo/default
+
+/Assets/mgo/level_asset/player/ParameterTables/AppealActions
+/Assets/mgo/level_asset/player/ParameterTables/Debug
+/Assets/mgo/level_asset/player/ParameterTables/
+/Assets/mgo/level_asset/player/ParameterTables/PlayerProgression
+
+/Assets/mgo/pack/location/mba2/pack_common/mba2_common
+
+
+
+/Assets/mgo/pack/location/mba2/pack_common/mba2_deathmatch
+/Assets/mgo/pack/location/mba2/pack_common/mba2_ruleset
+/Assets/mgo/pack/location/mba2/pack_common/mba2_ruleset_deathmatch
+/Assets/mgo/pack/location/mba2/pack_ruleset/deathmatch
+/Assets/mgo/pack/location/mba2/pack_ruleset/mba2_deathmatch
+/Assets/mgo/pack/location/mba2/pack_ruleset/mba2_ruleset_deathmatch
+/Assets/mgo/pack/location/mba2/pack_ruleset/ruleset_deathmatch
+/Assets/mgo/pack/location/mba2/pack_ruleset/ruleset_mba2_deathmatch
+/Assets/mgo/pack/location/mba2/pack_rulset/deathmatch
+/Assets/mgo/pack/location/mba2/pack_rulset/mba2_deathmatch
+/Assets/mgo/pack/location/mba2/pack_rulset/mba2_ruleset_deathmatch
+/Assets/mgo/pack/location/mba2/pack_rulset/ruleset_deathmatch
+/Assets/mgo/pack/location/mba2/pack_rulset/ruleset_mba2_deathmatch
+
+
+--SEGURO EMPIEZA--
+/Assets/mgo/pack/location/mba2/pack_
+
+--NO PUEDE SER--
+/Assets/mgo/pack/location/mba2/pack_common/ruleset
+
+
+/Assets/mgo/level/location/afc0/block_ruleset/attack/terminals.fox2		missile.fox2		afc0_sabotage_spawners.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/attack/terminals2.fox2		spawners2.fox2		missile2.fox2			docs2.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/deathmatch/jungle_spawners.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/deathmatch/base_spawners.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/domination/spawners.fox2		dom3map.fox2		dom3.fox2			dom2map.fox2		dom2.fox2	dom1map.fox2		dom1.fox2	afc0_dom_gimmick.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/domination/spawnersBase.fox2	dom3BaseMap.fox2	dom3Base.fox2			dom2BaseMap.fox2	dom2Base.fox2	dom1BaseMap.fox2	dom1Base.fox2	afc0_domb_gimmick.fox2
+/Assets/mgo/demo/fox_project/mgotitle_afc/mgotitle_end_afc.fox2			mgotitle_afc.fox2	fox/mgotitle_afc_1st_end.fox2
+/Assets/mgo/demo/fox_project/mgotitle_afc/mgotitle_end_afc.fox2			mgotitle_afc.fox2	fox/mgotitle_afc_1st_end.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/freeplay/targetdummy.fox2		spawners.fox2		ruleset_freeplay_warkerGear.fox2	ruleset_freeplay_lighting.fox2	ruleset_freeplay_effects.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/spawners.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discA1.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discA2.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discA3.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discA4.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discB1.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discB2.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discB3.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/discB4.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/pad1.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/pad1.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/pad1.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/pad1.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/spawnersBase.fox2	flagBase.fox2		captureBase.fox2
+/Assets/mgo/level/location/afc0/block_ruleset/attack/dynamic.fox2		/Assets/mgo/script/location/afc0/packs_attack_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/deathmatch/dynamicb.fox2		/Assets/mgo/script/location/afc0/packs_deathmatch_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/deathmatch/dynamic.fox2		/Assets/mgo/script/location/afc0/packs_deathmatch_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/domination/dynamicb.fox2		/Assets/mgo/script/location/afc0/packs_domination_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/domination/dynamic.fox2		/Assets/mgo/script/location/afc0/packs_domination_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/freeplay/dynamic.fox2		/Assets/mgo/script/ruleset/freeplay/Freeplay_Dynamic.lua	/Assets/mgo/script/location/afc0/packs_freeplay_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/dynamicb.fox2		/Assets/mgo/script/location/afc0/packs_teamsneakB_afc0.lua
+/Assets/mgo/level/location/afc0/block_ruleset/teamsneak/dynamic.fox2		/Assets/mgo/script/location/afc0/packs_teamsneak_afc0.lua
