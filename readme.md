@@ -26,15 +26,16 @@ Filenames have been sourced from a few different places:
 ## Stats
 These stats are based on TPP PC v1.007 and the latest commit to this repo:
 
+Only updated chunks section!!
 |QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
 |data1.dat|735|733|2|99.73%|Every file named except fb73c9483333.subp and 3989933189c50.subp|
-|chunk0.dat|2885|2672|213|92.62%||
-|chunk1.dat|4375|4246|129|97.05%||
-|chunk2.dat|14115|14112|3|99.98%|Every file named except 3 .fsm files|
-|chunk3.dat|1948|1941|7|99.64%||
-|chunk4.dat|13722|13716|6|99.96%|Every file named except 2 .fsm and 4 .sbp files|
-|0\00.dat|271|193|78|71.22%|chunk patches|
+|chunk0.dat|2885|2870|15|99.48%||
+|chunk1.dat|4375|4308|67|98.47%||
+|chunk2.dat|14115|14115|0|100%|Complete|
+|chunk3.dat|1948|1944|4|99.79%||
+|chunk4.dat|13722|13722|0|100%|Complete|
+|0\00.dat|573|567|6|98.95%|chunk patches|
 |texture0.dat|33359|9662|23697|28.96%||
 |texture1.dat|8804|7572|1232|86.01%||
 |texture2.dat|21059|2784|18275|13.22%||
