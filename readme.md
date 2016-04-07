@@ -26,7 +26,7 @@ Filenames have been sourced from a few different places:
 ## Stats
 These stats are based on TPP PC v1.007 and the latest commit to this repo:
 
-#Only updated chunks section!!
+#Some textures pack are not updated!!
 
 |QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
@@ -34,17 +34,17 @@ These stats are based on TPP PC v1.007 and the latest commit to this repo:
 |mgo\texture0.dat|?|?|?|?%||
 |tpp\data1.dat|735|733|2|99.73%|Every file named except fb73c9483333.subp and 3989933189c50.subp|
 |tpp\chunk0.dat|2885|2870|15|99.48%||
-|tpp\chunk1.dat|4375|4342|33|99.25%||
+|tpp\chunk1.dat|4375|4367|8|99.82%||
 |tpp\chunk2.dat|14115|14115|0|100%|Complete|
 |tpp\chunk3.dat|1948|1944|4|99.79%||
 |tpp\chunk4.dat|13722|13722|0|100%|Complete|
 |tpp\0\00.dat|573|567|6|98.95%|chunk patches|
 |tpp\texture0.dat|33379|12691|20688|38.02%||
-|tpp\texture1.dat|8804|7572|1232|86.01%||
+|tpp\texture1.dat|8804|8610|194|97.80%||
 |tpp\texture2.dat|21059|2784|18275|13.22%||
 |tpp\texture3.dat|14796|1026|13770|6.93%||
 |tpp\texture4.dat|16557|2150|14407|12.99%||
-|tpp\0\01.dat|168|23|145|13.69%|texture patches|
+|tpp\0\01.dat|501|31|470|6.18%|texture patches|
 |Total:|132794|60830|71964|45.81%|98.85% completion w/o textures|
 
 ## tpp packs
