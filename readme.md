@@ -30,6 +30,8 @@ These stats are based on TPP PC v1.007 and the latest commit to this repo:
 
 |QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
 |---|---|---|---|---|---|
+|gzs\data_01.g0s|15329|13696|1633|89.35%||
+|gzs\data_02.g0s|720|708|12|98.33%||
 |mgo\chunk0.dat|3811|3263|547|85.62%||
 |mgo\texture0.dat|?|?|?|?%||
 |tpp\data1.dat|735|733|2|99.73%|Every file named except fb73c9483333.subp and 3989933189c50.subp|
