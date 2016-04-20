@@ -44,7 +44,7 @@ These stats are based on TPP PC v1.007 and the latest commit to this repo:
 |tpp\1\00.dat|280|279|1|99.64%|Every file named except 32aaad214906d.dat. Seems to be similar to foxpatch.dat|
 |tpp\texture0.dat|33359|19390|13969|58.13%||
 |tpp\texture1.dat|8804|8614|190|97.84%||
-|tpp\texture2.dat|21059|3477|17582|16.51%||
+|tpp\texture2.dat|21059|3724|17335|17.68%||
 |tpp\texture3.dat|14796|978|13818|6.61%||
 |tpp\texture4.dat|16557|2111|14446|12.75%||
 |tpp\0\01.dat|501|31|470|6.18%|texture patches|
