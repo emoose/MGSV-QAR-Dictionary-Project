@@ -40,14 +40,14 @@ These stats are based on TPP PC v1.007 and the latest commit to this repo:
 |tpp\chunk2.dat|14115|14115|0|100%|Complete|
 |tpp\chunk3.dat|1948|1944|4|99.79%||
 |tpp\chunk4.dat|13722|13722|0|100%|Complete|
-|tpp\0\00.dat|573|567|6|98.95%|chunk patches|
-|tpp\1\00.dat|280|279|1|99.64%|Every file named except 32aaad214906d.dat. Seems to be similar to foxpatch.dat|
-|tpp\texture0.dat|33359|19390|13969|58.13%||
+|tpp\texture0.dat|33359|19436|13923|58.26%||
 |tpp\texture1.dat|8804|8614|190|97.84%||
-|tpp\texture2.dat|21059|6559|14500|31.15%||
-|tpp\texture3.dat|14796|978|13818|6.61%||
-|tpp\texture4.dat|16557|2111|14446|12.75%||
+|tpp\texture2.dat|21059|6633|14426|31.50%||
+|tpp\texture3.dat|14796|2612|12184|17.65%||
+|tpp\texture4.dat|16557|3167|13390|19.13%||
+|tpp\0\00.dat|573|567|6|98.95%|chunk patches|
 |tpp\0\01.dat|501|31|470|6.18%|texture patches|
+|tpp\1\00.dat|280|279|1|99.64%|Every file named except 32aaad214906d.dat. Seems to be similar to foxpatch.dat|
 |tpp\1\01.dat|5100|1560|3540|30.59%|texture patches|
 |Total:|132794|60830|71964|45.81%|98.85% completion w/o textures|
 
