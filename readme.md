@@ -49,7 +49,8 @@ These stats are based on TPP PC v1.09 and the latest commit to this repo:
 |tpp\0\01.dat|501|31|470|6.18%|texture patches|
 |tpp\1\00.dat|712|711|1|99.86%|Every file named except 32aaad214906d.dat. Seems to be similar to foxpatch.dat|
 |tpp\1\01.dat|5585|1614|3971|28.90%|texture patches|
-|Total:|132794|60830|71964|45.81%|98.85% completion w/o textures|
+|Total:|159610|99414|60196|62.29%|All files|
+|Total:|43620|43023|597|98.63%|Without texture files|
 
 ## tpp packs
 
