@@ -28,7 +28,7 @@ These stats are based on TPP PC v1.09 and the latest commit to this repo:
 
 #Some textures pack are not updated!!
 
-|QAR filename|File count|Named count|Unnamed count|Completion %|Notes|
+|QAR filename|Files|Named|Unnamed|Average|Notes|
 |---|---|---|---|---|---|
 |gzs\data_01.g0s|15329|14051|1278|91.66%||
 |gzs\data_02.g0s|720|708|12|98.33%||
