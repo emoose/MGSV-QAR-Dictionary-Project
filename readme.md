@@ -40,7 +40,7 @@ These stats are based on TPP PC v1.09 and the latest commit to this repo:
 |tpp\chunk3.dat|1948|1944|4|99.79%||
 |tpp\chunk4.dat|13722|13722|0|100%|Complete|
 |tpp\data1.dat|735|733|2|99.73%|Every file named except fb73c9483333.subp and 3989933189c50.subp|
-|tpp\texture0.dat|33359|19849|13510|59.50%||
+|tpp\texture0.dat|33359|20290|13069|60.82%||
 |tpp\texture1.dat|8804|8614|190|97.84%||
 |tpp\texture2.dat|21059|6636|14423|31.51%||
 |tpp\texture3.dat|14796|2612|12184|17.65%||
