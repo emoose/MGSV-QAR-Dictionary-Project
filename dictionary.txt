@@ -2657,6 +2657,8 @@
 /Assets/ssd/fova/common_source/chara/cm_head/face_id/SsdNpcFaceAndBodyData
 /Assets/ssd/level_asset/building/SsdBuildingParameterTable
 /Assets/ssd/level_asset/chara/crew/parameter/SsdCrewGeneratorTable
+/Assets/ssd/level_asset/chara/enemy/Soldier2FaceAndBodyData
+/Assets/ssd/level_asset/chara/enemy/Soldier2ParameterTables
 /Assets/ssd/level_asset/chara/enemy/TppEnemyBodyId
 /Assets/ssd/level_asset/chara/enemy/TppEnemyFaceGroup
 /Assets/ssd/level_asset/chara/enemy/TppEnemyFaceGroupId
@@ -3067,6 +3069,7 @@
 /Assets/ssd/script/list/SsdStorySequenceList
 /Assets/ssd/script/list/SsdStorySequenceRewardList
 /Assets/ssd/script/list/SsdWaterPumpList
+/Assets/ssd/script/list/TppMissionList
 /Assets/ssd/script/list/TppQuestList
 /Assets/ssd/script/mission/common/BaseMissionRadio
 /Assets/ssd/script/mission/common/BaseMissionSequence
@@ -3114,12 +3117,14 @@
 /Assets/ssd/sound/scripts/chara/SoundTppAnimal
 /Assets/ssd/sound/scripts/chara/SoundTppPlayer
 /Assets/ssd/sound/scripts/chara/SoundTppSoldier
+/Assets/ssd/sound/scripts/motion/setup
 /Assets/ssd/ui/Font/chinese
 /Assets/ssd/ui/Font/font_def_chn
 /Assets/ssd/ui/Font/font_def_hgl
 /Assets/ssd/ui/Font/font_def_jp
 /Assets/ssd/ui/Font/font_def_ltn
 /Assets/ssd/ui/Font/font_def_ltn_name
+/Assets/ssd/ui/Font/font_def_rus
 /Assets/ssd/ui/Font/Font_KJP_CODE_REG_80_alp
 /Assets/ssd/ui/Font/Font_KJP_CODE_REG_rank_alp
 /Assets/ssd/ui/Font/hangle
@@ -3127,6 +3132,8 @@
 /Assets/ssd/ui/Font/LatinFont
 /Assets/ssd/ui/Font/russian
 /Assets/ssd/ui/Script/mbdvc_map_location_parameter
+/Assets/ssd/ui/Script/mbdvc_map_mbstage_parameter
+/Assets/ssd/ui/Script/mbdvc_map_mission_parameter
 /Assets/ssd/ui/texture/logo/common_fox_logo_clp_nmp
 /Assets/ssd/ui/texture/logo/common_konami_logo_clp_nmp
 /Assets/ssd/ui/texture/logo/common_nvidia_logo_clp_nmp
