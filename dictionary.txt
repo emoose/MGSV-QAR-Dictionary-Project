@@ -3757,6 +3757,7 @@
 /Assets/ssd/pack/gimmick/common/gimmick_main_init
 /Assets/ssd/pack/gimmick/common/gimmick_main_mafr
 /Assets/ssd/pack/location/afgh/afgh
+/Assets/ssd/pack/location/afgh/aftr
 /Assets/ssd/pack/location/afgh/pack_common/afgh_common
 /Assets/ssd/pack/location/afgh/pack_common/afgh_script
 /Assets/ssd/pack/location/afgh/pack_extraLarge/afgh_east
@@ -6133,6 +6134,8 @@
 /Assets/ssd/pack/location/mafr/pack_mission/animal/anml_mafr_03_00
 /Assets/ssd/pack/location/mafr/pack_mission/animal/anml_mafr_04_00
 /Assets/ssd/pack/location/mafr/pack_mission/dungeon/dungeon1/mafr_dungeon1_zombieWCS01
+/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_boss01
+/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_boss02
 /Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_digger_c01
 /Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_digger_c02
 /Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_gimmick_c01
