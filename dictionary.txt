@@ -6653,6 +6653,7 @@
 /Assets/ssd/ui/texture/logo/common_nvidia_logo_clp_nmp
 /Assets/ssd/ui/texture/map/coop_afgh_field_clp_alp
 /Assets/ssd/ui/texture/map/coop_mafr_diamond_clp_alp
+/Assets/ssd/ui/texture/map/stage_01_height_clp_alp
 /Assets/ssd/weapon/amo/Pictures/am12_main0_def_nrm
 /Assets/tpp/chara/avm/Pictures/avm_bdn0_def_bsm
 /Assets/tpp/chara/avm/Pictures/avm_bdn0_def_dtm
