@@ -2847,6 +2847,11 @@
 /Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_bsm_alp
 /Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_nrm
 /Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_srm
+/Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_v1_bsm_alp
+/Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_v2_bsm_alp
+/Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_v3_bsm_alp
+/Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_v4_bsm_alp
+/Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_v5_bsm_alp
 /Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_sand001/sourceimages/cm_ssda_sand001_v5_nrm
 /Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_wrtx001/sourceimages/strm_wrtx/cm_afgh_wrtx001X00Z00
 /Assets/ssd/common_source/environ/ssd_afgh/cm_ssda_wrtx001/sourceimages/strm_wrtx/cm_afgh_wrtx001X00Z01
@@ -13593,6 +13598,7 @@
 /Assets/tpp/environ/object/afghanistan/light/afgh_lght006/sourceimages/afgh_lght006_nrm
 /Assets/tpp/environ/object/afghanistan/light/afgh_lght006/sourceimages/afgh_lght006_sbm
 /Assets/tpp/environ/object/afghanistan/light/afgh_lght006/sourceimages/afgh_lght006_srm
+/Assets/tpp/environ/object/afghanistan/light/afgh_lght006/sourceimages/afgh_lght006_v1_bsm_alp
 /Assets/tpp/environ/object/afghanistan/light/afgh_lght007/sourceimages/afgh_lght007_bsm
 /Assets/tpp/environ/object/afghanistan/light/afgh_lght007/sourceimages/afgh_lght007_mtm
 /Assets/tpp/environ/object/afghanistan/light/afgh_lght007/sourceimages/afgh_lght007_nrm
@@ -14073,6 +14079,9 @@
 /Assets/tpp/environ/object/afghanistan/steel_tower/afgh_sttw002/sourceimages/afgh_sttw002_sbm
 /Assets/tpp/environ/object/afghanistan/steel_tower/afgh_sttw002/sourceimages/afgh_sttw002_sh_bsm_alp
 /Assets/tpp/environ/object/afghanistan/steel_tower/afgh_sttw002/sourceimages/afgh_sttw002_srm
+/Assets/tpp/environ/object/afghanistan/steel_tower/afgh_sttw002/sourceimages/afgh_sttw002_v6_bsm
+/Assets/tpp/environ/object/afghanistan/steel_tower/afgh_sttw002/sourceimages/afgh_sttw002_v6_nrm
+/Assets/tpp/environ/object/afghanistan/steel_tower/afgh_sttw002/sourceimages/afgh_sttw002_v6_srm
 /Assets/tpp/environ/object/afghanistan/stone/afgh_ston001/sourceimages/afgh_ston001_b1_bsm
 /Assets/tpp/environ/object/afghanistan/stone/afgh_ston001/sourceimages/afgh_ston001_b1_nrm
 /Assets/tpp/environ/object/afghanistan/stone/afgh_ston001/sourceimages/afgh_ston001_b1_srm
@@ -16333,6 +16342,7 @@
 /Assets/tpp/environ/object/middle_africa/fence/mafr_fenc001/sourceimages/mafr_fenc001_nrm
 /Assets/tpp/environ/object/middle_africa/fence/mafr_fenc001/sourceimages/mafr_fenc001_sbm
 /Assets/tpp/environ/object/middle_africa/fence/mafr_fenc001/sourceimages/mafr_fenc001_srm
+/Assets/tpp/environ/object/middle_africa/fence/mafr_fenc001/sourceimages/mafr_fenc001_v1_bsm_alp
 /Assets/tpp/environ/object/middle_africa/fence/mafr_fenc002/sourceimages/mafr_fenc002_bsm
 /Assets/tpp/environ/object/middle_africa/fence/mafr_fenc002/sourceimages/mafr_fenc002_nrm
 /Assets/tpp/environ/object/middle_africa/fence/mafr_fenc002/sourceimages/mafr_fenc002_srm
@@ -16394,6 +16404,7 @@
 /Assets/tpp/environ/object/middle_africa/garbage/mafr_grbg005/sourceimages/mafr_grbg005_bsm_alp
 /Assets/tpp/environ/object/middle_africa/garbage/mafr_grbg005/sourceimages/mafr_grbg005_nrm
 /Assets/tpp/environ/object/middle_africa/garbage/mafr_grbg005/sourceimages/mafr_grbg005_srm
+/Assets/tpp/environ/object/middle_africa/garbage/mafr_grbg005/sourceimages/mafr_grbg005_v1_bsm_alp
 /Assets/tpp/environ/object/middle_africa/garbage/mafr_grbg005/sourceimages/mafr_grbg005_v1_srm
 /Assets/tpp/environ/object/middle_africa/gate/mafr_gate001/sourceimages/mafr_gate001_wd_bsm
 /Assets/tpp/environ/object/middle_africa/gate/mafr_gate001/sourceimages/mafr_gate001_wd_nrm
@@ -16566,6 +16577,7 @@
 /Assets/tpp/environ/object/middle_africa/light/mafr_lght003/sourceimages/mafr_lght003_nrm
 /Assets/tpp/environ/object/middle_africa/light/mafr_lght003/sourceimages/mafr_lght003_sbm
 /Assets/tpp/environ/object/middle_africa/light/mafr_lght003/sourceimages/mafr_lght003_srm
+/Assets/tpp/environ/object/middle_africa/light/mafr_lght003/sourceimages/mafr_lght003_v1_bsm_alp
 /Assets/tpp/environ/object/middle_africa/light/mafr_lght004/sourceimages/mafr_lght004_bsm
 /Assets/tpp/environ/object/middle_africa/light/mafr_lght004/sourceimages/mafr_lght004_mtm
 /Assets/tpp/environ/object/middle_africa/light/mafr_lght004/sourceimages/mafr_lght004_nrm
