@@ -10162,6 +10162,7 @@
 /Assets/ssd/pack/ui/subtitles/EngVoice/EngText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/EngText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/EngText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/EngVoice/EngText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/EngText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/EngText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/EngText/s10020_subtitles
@@ -10217,6 +10218,7 @@
 /Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/EngVoice/JpnText/s10020_subtitles
@@ -10286,6 +10288,7 @@
 /Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/EngText/s10020_subtitles
@@ -10320,6 +10323,7 @@
 /Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/FreText/s10020_subtitles
@@ -10354,6 +10358,7 @@
 /Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/GerText/s10020_subtitles
@@ -10388,6 +10393,7 @@
 /Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/ItaText/s10020_subtitles
@@ -10422,6 +10428,7 @@
 /Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/k40180_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/k40220_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/k40230_subtitles
+/Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/k40240_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/k40260_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/s10010_subtitles
 /Assets/ssd/pack/ui/subtitles/JpnVoice/JpnText/s10020_subtitles
