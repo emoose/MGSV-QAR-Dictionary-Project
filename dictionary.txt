@@ -9963,6 +9963,7 @@
 /Assets/ssd/pack/ui/ssd_option_menu_ui
 /Assets/ssd/pack/ui/ssd_ui_base_defense
 /Assets/ssd/pack/ui/ssd_ui_coop
+/Assets/ssd/pack/ui/ssd_ui_coop_data
 /Assets/ssd/pack/ui/ssd_ui_default_data
 /Assets/ssd/pack/ui/ssd_ui_key_mapping
 /Assets/ssd/pack/ui/ssd_ui_main_staff_defeat_end
@@ -20397,6 +20398,7 @@
 /Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cn_bsm
 /Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cn_lbm
 /Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cn_lym
+/Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cn_lym_alp
 /Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cn_nrm
 /Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cn_srm
 /Assets/tpp/environ/object/middle_africa/building/mafr_buld010/sourceimages/mafr_buld010_cr_bsm_alp
