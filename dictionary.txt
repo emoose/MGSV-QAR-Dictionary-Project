@@ -3035,6 +3035,9 @@
 /Assets/ssd/common_source/flat/Pictures/cm_flat_lambert_srm
 /Assets/ssd/common_source/flat/Pictures/cm_flat_nrm
 /Assets/ssd/common_source/flat/Pictures/cm_flat_white
+/Assets/ssd/common_source/fmtr/decal/ssd_afgh/cm_ssda_dc_sand001/sourceimages/cm_ssda_dc_sand001_bsm_alp
+/Assets/ssd/common_source/fmtr/decal/ssd_afgh/cm_ssda_dc_sand001/sourceimages/cm_ssda_dc_sand001_nrm
+/Assets/ssd/common_source/fmtr/decal/ssd_afgh/cm_ssda_dc_sand001/sourceimages/cm_ssda_dc_sand001_srm
 /Assets/ssd/common_source/fmtr/decal/ssd_mafr/cm_ssdm_dc_mudd003/sourceimages/cm_ssdm_dc_mudd003_nrm
 /Assets/ssd/common_source/fmtr/decal/ssd_mafr/cm_ssdm_dc_mudd003/sourceimages/cm_ssdm_dc_mudd003_srm
 /Assets/ssd/common_source/fmtr/decal/ssd_mafr/cm_ssdm_dc_mudd003/sourceimages/cm_ssdm_dc_mudd003_v1_bsm_alp
@@ -3044,6 +3047,13 @@
 /Assets/ssd/common_source/fmtr/terrain_decal/ssd_mafr/cm_ssdm_td_mudd003/sourceimages/cm_ssdm_td_mudd003_v1_bsm_alp
 /Assets/ssd/common_source/mecha/dtm/Pictures/cm_main0_def_dtm
 /Assets/ssd/common_source/mecha/dtm/Pictures/cm_main1_def_dtm
+/Assets/ssd/demo/demo_stream/EngVoice/p01_000010
+/Assets/ssd/demo/demo_stream/EngVoice/p01_000040
+/Assets/ssd/demo/demo_stream/EngVoice/p01_000070
+/Assets/ssd/demo/demo_stream/EngVoice/p01_000080
+/Assets/ssd/demo/demo_stream/EngVoice/p01_000090
+/Assets/ssd/demo/demo_stream/EngVoice/p01_000091
+/Assets/ssd/demo/demo_stream/EngVoice/p20_000020
 /Assets/ssd/demo/demo_stream/p01_000010
 /Assets/ssd/demo/demo_stream/p01_000020
 /Assets/ssd/demo/demo_stream/p01_000021
@@ -3051,8 +3061,12 @@
 /Assets/ssd/demo/demo_stream/p01_000040
 /Assets/ssd/demo/demo_stream/p01_000060
 /Assets/ssd/demo/demo_stream/p01_000070
+/Assets/ssd/demo/demo_stream/p01_000080
 /Assets/ssd/demo/demo_stream/p01_000081
+/Assets/ssd/demo/demo_stream/p01_000090
+/Assets/ssd/demo/demo_stream/p01_000091
 /Assets/ssd/demo/demo_stream/p01_000100
+/Assets/ssd/demo/demo_stream/p20_000020
 /Assets/ssd/effect/gr_pic/lut/ombs_demo_r8_FILTERLUT
 /Assets/ssd/effect/gr_pic/lut/ssd_base_default_FILTERLUT
 /Assets/ssd/effect/gr_pic/lut/ssd_base_mst_FILTERLUT
@@ -3080,6 +3094,7 @@
 /Assets/ssd/effect/vfx_pic/ocean/fx_ocean_wave_1k_mask
 /Assets/ssd/effect/vfx_pic/ocean/fx_ocean_wave2_1k_nrm
 /Assets/ssd/effect/vfx_pic/ocean/fx_ocean_wave3_1k_nrm
+/Assets/ssd/effect/vfx_pic/smoke/fx_smkrnganm08m_su_alp_clp
 /Assets/ssd/effect/vfx_pic/view/fx_viwfil01_mk_alp_clp
 /Assets/ssd/effect/vfx_pic/view/fx_viwfil02_mk_alp_clp
 /Assets/ssd/effect/vfx_pic/view/fx_viwfilnis02_th
@@ -9641,6 +9656,7 @@
 /Assets/ssd/pack/npc/parts/npc_parts_goat_common
 /Assets/ssd/pack/npc/parts/npc_parts_goat_normal
 /Assets/ssd/pack/npc/parts/npc_parts_kaiju_normal
+/Assets/ssd/pack/npc/parts/npc_parts_nubian_normal
 /Assets/ssd/pack/npc/parts/npc_parts_ray_normal
 /Assets/ssd/pack/npc/parts/npc_parts_sheep_normal
 /Assets/ssd/pack/npc/parts/npc_parts_sirencamera_normal
@@ -10382,6 +10398,7 @@
 /Assets/ssd/ui/texture/map/stage_01_road_clp
 /Assets/ssd/ui/texture/map/stage_02_height_clp_alp
 /Assets/ssd/ui/texture/map/stage_02_road_clp
+/Assets/ssd/ui/texture/missionimage/missionimage_40070
 /Assets/ssd/ui/texture/staffimage/staff_image_test
 /Assets/ssd/ui/texture/staffimage/staff_image_unique_001
 /Assets/ssd/ui/texture/staffimage/staff_image_unique_002
@@ -16630,6 +16647,7 @@
 /Assets/tpp/effect/vfx_pic/dust/fx_dstcom02_tm_alp
 /Assets/tpp/effect/vfx_pic/dust/fx_dstcom03_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/dust/fx_dstcom03anm_hh_alp_clp
+/Assets/tpp/effect/vfx_pic/dust/fx_dstcom05_hh_alp_clp
 /Assets/tpp/effect/vfx_pic/dust/fx_dstgls02n_ts_alp_clp
 /Assets/tpp/effect/vfx_pic/dust/fx_dstgls03n_ts_alp_clp
 /Assets/tpp/effect/vfx_pic/dust/fx_dstgls05n_ts_alp_clp
@@ -16652,7 +16670,7 @@
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm02_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm02_ks_alp_clp
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp
-/Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp.6.ftexs
+/Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp.6
 /Assets/tpp/effect/vfx_pic/fire/fx_fir01_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/fire/fx_fir01_mk_alp_clp
 /Assets/tpp/effect/vfx_pic/fire/fx_fir02_iy_alp_clp
@@ -24139,11 +24157,11 @@
 /Assets/tpp/level/location/gntn/block_common/gntn_common_sequence
 /Assets/tpp/level/location/gntn/block_common/gntn_common_stage
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm
-/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm.6.ftexs
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm.6
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm
-/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm.6.ftexs
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm.6
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm
-/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm.6.ftexs
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm.6
 /Assets/tpp/level/location/gntn/block_common/gntn_vehicle_block_controller
 /Assets/tpp/level/location/gntn/block_mission/EnemyConversation_gntn
 /Assets/tpp/level/location/gntn/block_mission/gntn_common_packages
@@ -44408,7 +44426,7 @@
 /Assets/tpp/ui/texture/map/gntn_building/gntn_camp_omega_out_alp
 /Assets/tpp/ui/texture/map/gntn_building/gntn_camp_omega_out_alp_clp
 /Assets/tpp/ui/texture/map/gntn_photo_clp
-/Assets/tpp/ui/texture/map/gntn_photo_clp.6.ftexs
+/Assets/tpp/ui/texture/map/gntn_photo_clp.6
 /Assets/tpp/ui/texture/map/map_afgh/afgh_height_b_clp_alp
 /Assets/tpp/ui/texture/map/map_afgh/afgh_height_c_clp_alp
 /Assets/tpp/ui/texture/map/map_afgh/afgh_height_clp
