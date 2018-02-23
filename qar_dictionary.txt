@@ -3479,6 +3479,8 @@
 /Assets/ssd/movie/Win/JpnVoice/p10_000075
 /Assets/ssd/pack/collectible/common/col_common_ssd
 /Assets/ssd/pack/collectible/rewardCbox/rewardCbox
+/Assets/ssd/pack/collectible/rewardCbox/rewardDiggerParts
+/Assets/ssd/pack/collectible/rewardCbox/rewardMemoryBoard
 /Assets/ssd/pack/environ/stagelow/afgh/large_lod1/field/afgh_llod1_field
 /Assets/ssd/pack/environ/stagelow/afgh/large_lod1/ruins/afgh_llod1_ruins
 /Assets/ssd/pack/environ/stagelow/afgh/large_lod1/village/afgh_llod1_village
@@ -10153,6 +10155,13 @@
 /Assets/ssd/pack/ui/ui_avatar_edit_women
 /Assets/ssd/pack/ui/ui_default_data2
 /Assets/ssd/pack/ui/ui_resident_data
+/Assets/ssd/pack/collectible/weapon/bl08_main0_def_v00
+/Assets/ssd/pack/collectible/weapon/bl14_main0_def_v00
+/Assets/ssd/pack/collectible/weapon/bw00_main0_def_v00
+/Assets/ssd/pack/collectible/weapon/bw01_main0_def_v00
+/Assets/ssd/pack/collectible/weapon/gun/sg02_main1_aw1_v00
+/Assets/ssd/pack/collectible/weapon/sp00_main0_def_v00
+/Assets/ssd/pack/collectible/weapon/sp01_main0_def_v00
 /Assets/ssd/script/gear/RegisterGear
 /Assets/ssd/script/lib/SsdBaseDefense
 /Assets/ssd/script/lib/SsdCreatureBlock
