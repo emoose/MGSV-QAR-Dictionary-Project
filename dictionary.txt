@@ -3079,6 +3079,7 @@
 /Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_be_nrm
 /Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_be_srm
 /Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_mb_bsm_alp
+/Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_md_bsm_alp
 /Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_me_bsm_alp
 /Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_mf_bsm_alp
 /Assets/ssd/environ/object/ssd_afgh/crystal/ssda_crys002/sourceimages/ssda_crys002_r0_bsm_alp
@@ -8911,6 +8912,10 @@
 /Assets/ssd/pack/player/avatar/deform/pldfrm_avf0_type5_v00
 /Assets/ssd/pack/player/avatar/deform/pldfrm_avf0_type6_v00
 /Assets/ssd/pack/player/avatar/deform/pldfrm_avf0_type7_v00
+/Assets/ssd/pack/player/avatar/face/plfova_avf_hair_a0_v00
+/Assets/ssd/pack/player/avatar/face/plfova_avf_hair_b0_v00
+/Assets/ssd/pack/player/avatar/face/plfova_avf_hair_c0_v00
+/Assets/ssd/pack/player/avatar/face/plfova_avf_hair_d0_v00
 /Assets/ssd/pack/player/avatar/face/plfova_avf0_type0_v00
 /Assets/ssd/pack/player/avatar/face/plfova_avf0_type1_v00
 /Assets/ssd/pack/player/avatar/face/plfova_avf0_type2_v00
@@ -9209,8 +9214,10 @@
 /Assets/ssd/pack/ui/ssd_option_menu_ui
 /Assets/ssd/pack/ui/ssd_ui_base_defense
 /Assets/ssd/pack/ui/ssd_ui_coop
+/Assets/ssd/pack/ui/ssd_ui_default_data
 /Assets/ssd/pack/ui/ssd_ui_key_mapping
 /Assets/ssd/pack/ui/ssd_ui_main_staff_defeat_end
+/Assets/ssd/pack/ui/ssd_ui_play_record
 /Assets/ssd/pack/ui/ssd_ui_resident_data
 /Assets/ssd/pack/ui/ssd_ui_staff_roll_defeat_end
 /Assets/ssd/pack/ui/ssd_ui_staff_roll_return_end
@@ -11001,6 +11008,9 @@
 /Assets/tpp/chara/mbd/Pictures/mte0_main0_def_dtm
 /Assets/tpp/chara/mbd/Pictures/mte0_main0_def_nrm
 /Assets/tpp/chara/mbd/Pictures/mte0_main0_def_srm
+/Assets/tpp/chara/mbd/Pictures/rvn0_body0_def_bsm_alp
+/Assets/tpp/chara/mbd/Pictures/rvn0_body0_def_nrm
+/Assets/tpp/chara/mbd/Pictures/rvn0_body0_def_srm
 /Assets/tpp/chara/mbd/Pictures/vlt0_main0_def_c00_bsm_alp
 /Assets/tpp/chara/mbd/Pictures/vlt0_main0_def_trm
 /Assets/tpp/chara/mbd/Pictures/vlt1_main0_def_c00_bsm_alp
@@ -11583,6 +11593,8 @@
 /Assets/tpp/chara/san/Pictures/hgh0_main0_def_nrm
 /Assets/tpp/chara/san/Pictures/hgh0_main0_def_srm
 /Assets/tpp/chara/san/Pictures/hgh0_main0_def_trm
+/Assets/tpp/chara/san/Pictures/rat0_main0_def_nrm
+/Assets/tpp/chara/san/Pictures/rat0_main0_def_srm
 /Assets/tpp/chara/san/Pictures/rat2_main0_def_c00_lym
 /Assets/tpp/chara/san/Pictures/rat2_main0_def_c01_lym
 /Assets/tpp/chara/san/Pictures/rat2_main0_def_c02_lym
@@ -12460,6 +12472,7 @@
 /Assets/tpp/common_source/chara/human/Pictures/cm_mout0_low_trm
 /Assets/tpp/common_source/chara/human/Pictures/cm_shdw0_bsm_alp
 /Assets/tpp/common_source/chara/human/Pictures/cm_shdw1_bsm_alp
+/Assets/tpp/common_source/chara/human/Pictures/reflection_preset
 /Assets/tpp/common_source/cubemap/environ/afghanistan/cm_afgh_cb_cita002/sourceimages/cm_afgh_cb_cita002
 /Assets/tpp/common_source/cubemap/environ/afghanistan/cm_afgh_cb_cita002/sourceimages/cm_afgh_cb_cita002_2nd
 /Assets/tpp/common_source/cubemap/environ/afghanistan/cm_afgh_cb_cita002/sourceimages/cm_afgh_cb_cita002_3d
@@ -14944,6 +14957,8 @@
 /Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd006/sourceimages/cm_mafr_dc_mudd006_nrm
 /Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd006/sourceimages/cm_mafr_dc_mudd006_srm
 /Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd006/sourceimages/cm_mafr_dc_mudd006_vr1_bsm_alp
+/Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd007/sourceimages/cm_mafr_dc_mudd007_01_bsm_alp
+/Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd007/sourceimages/cm_mafr_dc_mudd007_01_srm
 /Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd007/sourceimages/cm_mafr_dc_mudd007_nrm
 /Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd009/sourceimages/cm_mafr_dc_mudd009_bsm_alp
 /Assets/tpp/common_source/fmtr/decal/middle_africa/cm_mafr_dc_mudd009/sourceimages/cm_mafr_dc_mudd009_nrm
@@ -40366,6 +40381,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/s10260_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/s10280_subtitles
 /Assets/tpp/pack/ui/ui_avatar_edit_men
+/Assets/tpp/pack/ui/ui_avatar_edit_men_
 /Assets/tpp/pack/ui/ui_avatar_edit_women
 /Assets/tpp/pack/ui/ui_bonus_popup
 /Assets/tpp/pack/ui/ui_default_data2
