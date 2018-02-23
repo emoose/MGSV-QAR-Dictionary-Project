@@ -3175,6 +3175,10 @@
 /Assets/ssd/level_asset/defense_game/debug/c20120_w2_test
 /Assets/ssd/level_asset/defense_game/debug/c20120_w3_test
 /Assets/ssd/level_asset/defense_game/debug/debug_c20010_test
+/Assets/ssd/level_asset/defense_game/debug/debug_c20020_test
+/Assets/ssd/level_asset/defense_game/debug/debug_c20110_test
+/Assets/ssd/level_asset/defense_game/debug/debug_c20210_test
+/Assets/ssd/level_asset/defense_game/diamond/c20210
 /Assets/ssd/level_asset/defense_game/diamond/c20210_common
 /Assets/ssd/level_asset/defense_game/diamond/c20210_quest_01
 /Assets/ssd/level_asset/defense_game/diamond/c20210_quest_02
@@ -3182,6 +3186,7 @@
 /Assets/ssd/level_asset/defense_game/diamond/c20210_wave_01
 /Assets/ssd/level_asset/defense_game/diamond/c20210_wave_02
 /Assets/ssd/level_asset/defense_game/diamond/c20210_wave_03
+/Assets/ssd/level_asset/defense_game/diamond/c20220
 /Assets/ssd/level_asset/defense_game/diamond/c20220_common
 /Assets/ssd/level_asset/defense_game/diamond/c20220_quest_01
 /Assets/ssd/level_asset/defense_game/diamond/c20220_quest_02
@@ -3189,6 +3194,7 @@
 /Assets/ssd/level_asset/defense_game/diamond/c20220_wave_01
 /Assets/ssd/level_asset/defense_game/diamond/c20220_wave_02
 /Assets/ssd/level_asset/defense_game/diamond/c20220_wave_03
+/Assets/ssd/level_asset/defense_game/diamond/c20230
 /Assets/ssd/level_asset/defense_game/diamond/c20230_common
 /Assets/ssd/level_asset/defense_game/diamond/c20230_quest_01
 /Assets/ssd/level_asset/defense_game/diamond/c20230_quest_02
@@ -3196,6 +3202,7 @@
 /Assets/ssd/level_asset/defense_game/diamond/c20230_wave_01
 /Assets/ssd/level_asset/defense_game/diamond/c20230_wave_02
 /Assets/ssd/level_asset/defense_game/diamond/c20230_wave_03
+/Assets/ssd/level_asset/defense_game/field/c20010
 /Assets/ssd/level_asset/defense_game/field/c20010_common
 /Assets/ssd/level_asset/defense_game/field/c20010_quest_01
 /Assets/ssd/level_asset/defense_game/field/c20010_quest_02
@@ -3203,6 +3210,7 @@
 /Assets/ssd/level_asset/defense_game/field/c20010_wave_01
 /Assets/ssd/level_asset/defense_game/field/c20010_wave_02
 /Assets/ssd/level_asset/defense_game/field/c20010_wave_03
+/Assets/ssd/level_asset/defense_game/field/c20020
 /Assets/ssd/level_asset/defense_game/field/c20020_common
 /Assets/ssd/level_asset/defense_game/field/c20020_quest_01
 /Assets/ssd/level_asset/defense_game/field/c20020_quest_02
@@ -3210,6 +3218,7 @@
 /Assets/ssd/level_asset/defense_game/field/c20020_wave_01
 /Assets/ssd/level_asset/defense_game/field/c20020_wave_02
 /Assets/ssd/level_asset/defense_game/field/c20020_wave_03
+/Assets/ssd/level_asset/defense_game/field/c20030
 /Assets/ssd/level_asset/defense_game/field/c20030_common
 /Assets/ssd/level_asset/defense_game/field/c20030_quest_01
 /Assets/ssd/level_asset/defense_game/field/c20030_quest_02
@@ -3217,6 +3226,7 @@
 /Assets/ssd/level_asset/defense_game/field/c20030_wave_01
 /Assets/ssd/level_asset/defense_game/field/c20030_wave_02
 /Assets/ssd/level_asset/defense_game/field/c20030_wave_03
+/Assets/ssd/level_asset/defense_game/pfCamp/c20610
 /Assets/ssd/level_asset/defense_game/pfCamp/c20610_common
 /Assets/ssd/level_asset/defense_game/pfCamp/c20610_quest_01
 /Assets/ssd/level_asset/defense_game/pfCamp/c20610_quest_02
@@ -3224,6 +3234,7 @@
 /Assets/ssd/level_asset/defense_game/pfCamp/c20610_wave_01
 /Assets/ssd/level_asset/defense_game/pfCamp/c20610_wave_02
 /Assets/ssd/level_asset/defense_game/pfCamp/c20610_wave_03
+/Assets/ssd/level_asset/defense_game/pfCamp/c20620
 /Assets/ssd/level_asset/defense_game/pfCamp/c20620_common
 /Assets/ssd/level_asset/defense_game/pfCamp/c20620_quest_01
 /Assets/ssd/level_asset/defense_game/pfCamp/c20620_quest_02
@@ -3231,6 +3242,7 @@
 /Assets/ssd/level_asset/defense_game/pfCamp/c20620_wave_01
 /Assets/ssd/level_asset/defense_game/pfCamp/c20620_wave_02
 /Assets/ssd/level_asset/defense_game/pfCamp/c20620_wave_03
+/Assets/ssd/level_asset/defense_game/pfCamp/c20630
 /Assets/ssd/level_asset/defense_game/pfCamp/c20630_common
 /Assets/ssd/level_asset/defense_game/pfCamp/c20630_quest_01
 /Assets/ssd/level_asset/defense_game/pfCamp/c20630_quest_02
@@ -3238,6 +3250,7 @@
 /Assets/ssd/level_asset/defense_game/pfCamp/c20630_wave_01
 /Assets/ssd/level_asset/defense_game/pfCamp/c20630_wave_02
 /Assets/ssd/level_asset/defense_game/pfCamp/c20630_wave_03
+/Assets/ssd/level_asset/defense_game/savannah/c20710
 /Assets/ssd/level_asset/defense_game/savannah/c20710_common
 /Assets/ssd/level_asset/defense_game/savannah/c20710_quest_01
 /Assets/ssd/level_asset/defense_game/savannah/c20710_quest_02
@@ -3245,6 +3258,7 @@
 /Assets/ssd/level_asset/defense_game/savannah/c20710_wave_01
 /Assets/ssd/level_asset/defense_game/savannah/c20710_wave_02
 /Assets/ssd/level_asset/defense_game/savannah/c20710_wave_03
+/Assets/ssd/level_asset/defense_game/savannah/c20720
 /Assets/ssd/level_asset/defense_game/savannah/c20720_common
 /Assets/ssd/level_asset/defense_game/savannah/c20720_quest_01
 /Assets/ssd/level_asset/defense_game/savannah/c20720_quest_02
@@ -3252,6 +3266,7 @@
 /Assets/ssd/level_asset/defense_game/savannah/c20720_wave_01
 /Assets/ssd/level_asset/defense_game/savannah/c20720_wave_02
 /Assets/ssd/level_asset/defense_game/savannah/c20720_wave_03
+/Assets/ssd/level_asset/defense_game/savannah/c20730
 /Assets/ssd/level_asset/defense_game/savannah/c20730_common
 /Assets/ssd/level_asset/defense_game/savannah/c20730_quest_01
 /Assets/ssd/level_asset/defense_game/savannah/c20730_quest_02
@@ -3259,12 +3274,15 @@
 /Assets/ssd/level_asset/defense_game/savannah/c20730_wave_01
 /Assets/ssd/level_asset/defense_game/savannah/c20730_wave_02
 /Assets/ssd/level_asset/defense_game/savannah/c20730_wave_03
+/Assets/ssd/level_asset/defense_game/show/c29010
 /Assets/ssd/level_asset/defense_game/show/c29010_common
 /Assets/ssd/level_asset/defense_game/show/c29010_quest_01
 /Assets/ssd/level_asset/defense_game/show/c29010_wave_01
+/Assets/ssd/level_asset/defense_game/show/c29210
 /Assets/ssd/level_asset/defense_game/show/c29210_common
 /Assets/ssd/level_asset/defense_game/show/c29210_quest_01
 /Assets/ssd/level_asset/defense_game/show/c29210_wave_01
+/Assets/ssd/level_asset/defense_game/village/c20110
 /Assets/ssd/level_asset/defense_game/village/c20110_common
 /Assets/ssd/level_asset/defense_game/village/c20110_quest_01
 /Assets/ssd/level_asset/defense_game/village/c20110_quest_02
@@ -3272,6 +3290,7 @@
 /Assets/ssd/level_asset/defense_game/village/c20110_wave_01
 /Assets/ssd/level_asset/defense_game/village/c20110_wave_02
 /Assets/ssd/level_asset/defense_game/village/c20110_wave_03
+/Assets/ssd/level_asset/defense_game/village/c20120
 /Assets/ssd/level_asset/defense_game/village/c20120_common
 /Assets/ssd/level_asset/defense_game/village/c20120_quest_01
 /Assets/ssd/level_asset/defense_game/village/c20120_quest_02
@@ -3279,6 +3298,7 @@
 /Assets/ssd/level_asset/defense_game/village/c20120_wave_01
 /Assets/ssd/level_asset/defense_game/village/c20120_wave_02
 /Assets/ssd/level_asset/defense_game/village/c20120_wave_03
+/Assets/ssd/level_asset/defense_game/village/c20130
 /Assets/ssd/level_asset/defense_game/village/c20130_common
 /Assets/ssd/level_asset/defense_game/village/c20130_quest_01
 /Assets/ssd/level_asset/defense_game/village/c20130_quest_02
