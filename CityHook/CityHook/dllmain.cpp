@@ -31,7 +31,7 @@ void LogString(char* str, int str_len)
 	// string might have a null char anywhere between 0 - str_len, so lets find it and make sure we don't add it to the buffer
 	// (because that would stop later buffer entries being written to the log, as the null would come before them)
 	int real_len = str_len;
-	for (int i = 0; i < str_len - 1; i++)
+	for (int i = 0; i < str_len - 1; i++) // have to check up to str_len - 1 instead of up to str_len otherwise it crashes?
 	{
 		if (str[i] == '\0')
 		{
@@ -39,6 +39,9 @@ void LogString(char* str, int str_len)
 			break;
 		}
 	}
+
+	if (str[real_len - 1] == '\0') // above might have missed the null because we had to do str_len - 1, so check again just incase (we really don't want to copy any nulls)
+		real_len--;
 
 	char* buff = new char[real_len + 1];
 	memcpy(buff, str, real_len);
